@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivW5i75-diLhTBk1CXPOYf_OPgeMQaOerYYVQUCa-5u2ch3rLt6ku5qSmXvHfh4ezRON2Lye1ClXk8U6jtOTitsjhLiJxAsEtqrkVODgcG_LmAdakJ52W7m1R7w4T1M_8RSYSO_UlMKSFV/w200-h200/ChineseGhost13.gif)="100"/>
 </div>
 
 **Phatcharaphon-Luangphoom/Phatcharaphon-Luangphoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
