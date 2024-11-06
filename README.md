@@ -14,6 +14,5 @@ src="https://img.shields.io/github/followers/Phatcharaphon-Luangphoom?logo=githu
 
  </abc>
   <br>
-    <img src="https://28.media.tumblr.com/tumblr_llslq2YDdI1qah4nko1_500.gif" alt="Coder GIF" width="300">
-    [<img src="https://i.pinimg.com/originals/45/08/73/450873b27b506c5e1abd2f45d46f2ea3.gif" alt="Coder GIF" width=150">]
+    <img src="https://28.media.tumblr.com/tumblr_llslq2YDdI1qah4nko1_500.gif" alt="Coder GIF" width="400">
      </abc>
