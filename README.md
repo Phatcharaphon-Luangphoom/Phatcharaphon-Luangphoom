@@ -2,7 +2,7 @@ Hi My name is Phatchara  ![](https://user-images.githubusercontent.com/18350557/
 =================================================================================================================================
 
  <div align="center">
-    <img src="https://28.media.tumblr.com/tumblr_llslq2YDdI1qah4nko1_500.gif" alt="Coder GIF" width="500">
+    <img src="https://28.media.tumblr.com/tumblr_llslq2YDdI1qah4nko1_500.gif" alt="Coder GIF" width="700">
      </div>
 
 * 🌍  I'm based in University of Phayao
