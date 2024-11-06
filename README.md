@@ -8,7 +8,7 @@ Hi My name is Phatchara  ![](https://user-images.githubusercontent.com/18350557/
 * 🌍  I'm based in University of Phayao
 * ✉️  You can contact me at [66020914@up.ac.th](mailto:66020914@up.ac.th)
 * 🧠  I'm learning Computer Science
-
+<div align="center">
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="50" />
 
 <a href="https://www.github.com/Phatcharaphon-Luangphoom" target="_blank" rel="noreferrer"><img
