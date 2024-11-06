@@ -1,9 +1,9 @@
 Hi My name is Phatchara  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =================================================================================================================================
 
- </abc align="center">
+ <div align="center">
     <img src="https://28.media.tumblr.com/tumblr_llslq2YDdI1qah4nko1_500.gif" alt="Coder GIF" width="500">
-     </abc>
+     </div>
 
 * 🌍  I'm based in University of Phayao
 * ✉️  You can contact me at [66020914@up.ac.th](mailto:66020914@up.ac.th)
