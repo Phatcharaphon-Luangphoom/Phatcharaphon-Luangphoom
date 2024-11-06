@@ -15,5 +15,5 @@ src="https://img.shields.io/github/followers/Phatcharaphon-Luangphoom?logo=githu
  </abc>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-    <img src="https://i.pinimg.com/originals/45/08/73/450873b27b506c5e1abd2f45d46f2ea3.gif" alt="Coder GIF" width="500">
+    <img src="https://i.pinimg.com/originals/45/08/73/450873b27b506c5e1abd2f45d46f2ea3.gif" alt="Coder GIF" width="100">
      </abc>
