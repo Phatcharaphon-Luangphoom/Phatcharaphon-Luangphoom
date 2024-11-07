@@ -9,7 +9,7 @@ Hi My name is Phatchara  ![](https://user-images.githubusercontent.com/18350557/
 * ✉️  You can contact me at [66020914@up.ac.th](mailto:66020914@up.ac.th)
 * 🧠  I'm learning Computer Science
 <div align="center">
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="50"/>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30"/>
 
 <a href="https://www.github.com/Phatcharaphon-Luangphoom" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Phatcharaphon-Luangphoom?logo=github&style=for-the-badge&color=ef4444&labelColor=22272e" /></a>
